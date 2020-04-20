@@ -24,7 +24,8 @@ Para utilizar este proyecto deben usar el siguiente comando para instalar los mo
 
 ## Tecnologías Usadas
 
-- TypeScript
+- Javascript
+- Node.Js
 
 <br><br>
 
