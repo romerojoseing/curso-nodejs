@@ -10,8 +10,17 @@ Te doy la bienvenida a mi repositorio, puedes usar este contenido con total libe
 
 Repositorio para almacenar los archivos diseñados durante el curso de node.js que es un entorno de ejecución de Javascript.
 
-
 <br><br>
+
+## Instalar 
+
+Para utilizar este proyecto deben usar el siguiente comando para instalar los modulos necesarios
+
+```ssh
+  $ npm install
+```
+
+<br>
 
 ## Tecnologías Usadas
 
